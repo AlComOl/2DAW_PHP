@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-     
-</head><style>
+  <style>
       h1{
         text-align:center;
       }
@@ -33,12 +32,14 @@
 
 
     </style>
+  
+</head>
 
 
 <body>
 <h1>USANDO OPERADORES COMPARACIÓN</h1>
 
-<form action="validacion.php" method="post" name="datos_usuario" id="datos_usuario">
+<form action="validacionCondicionales.php" method="post" name="datos_usuario" id="datos_usuario">
   <table width="15%" align="center">
     <tr>
       <td>Nombre:</td>
